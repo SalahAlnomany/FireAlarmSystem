@@ -13,9 +13,7 @@
       <li>Using Temperature Sensor and Smoke Sensor.</li>
       <li>3 System States (Fine-Heat-Fire).</li>
       <li>In case of Fire state require password to turn it off.</li>
-	  
-	</ul>
-    <img src="C:\Hard Drive\Embedded\Projects\Fire Alarm\Screenshot 2023-10-12 065350.png" alt="Fire Alarm System using ATmega32">
+	 </ul>
   </section>
 </body>
 </html>
