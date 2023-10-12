@@ -8,7 +8,7 @@
   </header>
   
   <section>
-    <h2>Fire Alarm System using ATmega32</h2>
+    <h2>using ATmega32</h2>
     <ul>
       <li>Using Temperature Sensor and Smoke Sensor.</li>
       <li>3 System States (Fine-Heat-Fire).</li>
